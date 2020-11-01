@@ -31,7 +31,7 @@ public class Curs {
             e2.instruccions = "Tradueix la frase";
             e2.fraseOrigen = "Dábale arroz a la zorra el abad";
             e2.fraseDesti = "The abbot was giving rice to the fox";
-            e2.punts = 1000;
+            e2.punts = 1200;
 
             exercicis = new ArrayList<>();
             exercicis.add( e1 );
