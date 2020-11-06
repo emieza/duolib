@@ -24,14 +24,14 @@ public class Curs {
             e1.instruccions = "Tradueix la frase";
             e1.fraseOrigen = "Un bon día al matí";
             e1.fraseDesti = "A nice day in the morning";
-            e1.punts = 1000;
+            e1.punts = 100;
 
             Exercici e2 = new Exercici();
             e2.titol = "Traduccio2";
             e2.instruccions = "Tradueix la frase";
             e2.fraseOrigen = "Dábale arroz a la zorra el abad";
             e2.fraseDesti = "The abbot was giving rice to the fox";
-            e2.punts = 1200;
+            e2.punts = 120;
 
             exercicis = new ArrayList<>();
             exercicis.add( e1 );
