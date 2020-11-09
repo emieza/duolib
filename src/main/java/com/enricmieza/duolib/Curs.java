@@ -28,7 +28,7 @@ public class Curs {
 
             Exercici e1 = new Exercici();
             e1.titol = "Traduccio1";
-            e1.tipus = Exercici.TRADUCCIO_OBERTA;
+            e1.tipus = Exercici.TRADUCCIO_REORDENA_PARAULES;
             e1.instruccions = "Tradueix la frase";
             e1.fraseOrigen = "Un bonic día al matí";
             e1.fraseDesti = "A nice day in the morning";
